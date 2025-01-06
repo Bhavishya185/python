@@ -30,7 +30,7 @@ this is a block comment
 # res = a + b
 # print("Result:", res, "Type:", type(res))
 
-sample_str = "this is a string"
+# sample_str = "this is a string"
 # print(sample_str, type(sample_str))
 # print(dir(sample_str))
 
@@ -69,14 +69,15 @@ sample_str = "this is a string"
 # print(a or b)  # true
 
 
-a = 2
-b = 4
+# a = 2
+# b = 4
 
 
-print(a+b)  # addition
-print(a-b)  # substraction
-print(a*b)  # multiplication
-print(a/b)  # division
-print(b%a)  # modulo division: returns remainder
-print(a//b) # Integer division
-print(a**b) # exponentiation
+# print(a+b)  # addition
+# print(a-b)  # substraction
+# print(a*b)  # multiplication
+# print(a/b)  # division
+# print(b%a)  # modulo division: returns remainder
+# print(a//b) # Integer division
+# print(a**b) # exponentiation
+
